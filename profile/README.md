@@ -1,5 +1,5 @@
 # :stars: JourneyUs 与我
-<!-- ![星河背景]() -->
+
 
 > 星河漫漫，光影如流， \
 你我初遇，如晨露微柔。 \
@@ -23,3 +23,5 @@
 :waxing_crescent_moon: **见证彼此成长**  
 :sparkling_heart: **留下只属于两个人的信件**  
 :stars: **在浪漫与宇宙感的氛围中延续爱与连接**
+
+![星河背景](https://raw.githubusercontent.com/JourneyUs/.github/refs/heads/main/profile/img/banner.png)
